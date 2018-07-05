@@ -44,12 +44,12 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 7. Which Year Has The Highest Profit Rate?
 8. Which length movies most liked by the audiences according to their popularity?
 9. Average Runtime Of Movies From Year To Year?
-10.How Does The Revenue And Popularity differs Budget And Runtime? And How Does Popularity Depends On Profit?
-11.Which Month Released Highest Number Of Movies In All Of The Years? And Which Month Made The Highest Average Revenue?
-12.Which Genre Has The Highest Release Of Movies?
-13.Which genres are most popular from year to year?
-14.Most Frequent star cast?
-15.Top 20 Production Companies With Higher Number Of Release?
-16.Life Time Profit Earn By Each Production Company?
-17.Top 20 Director Who Directs Maximum Movies?
-18.What kinds of properties are associated with movies that have high revenues?
+10. How Does The Revenue And Popularity differs Budget And Runtime? And How Does Popularity Depends On Profit?
+11. Which Month Released Highest Number Of Movies In All Of The Years? And Which Month Made The Highest Average Revenue?
+12. Which Genre Has The Highest Release Of Movies?
+13. Which genres are most popular from year to year?
+14. Most Frequent star cast?
+15. Top 20 Production Companies With Higher Number Of Release?
+16. Life Time Profit Earn By Each Production Company?
+17. Top 20 Director Who Directs Maximum Movies?
+18. What kinds of properties are associated with movies that have high revenues?
