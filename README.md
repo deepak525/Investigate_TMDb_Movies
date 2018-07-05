@@ -33,7 +33,7 @@ After completing the project, you will:
 ## Exploratory Data Analysis
 Tip: Now that you've trimmed and cleaned your data, you're ready to move on to exploration. Compute statistics and create visualizations with the goal of addressing the research questions that you posed in the Introduction section. It is recommended that you be systematic with your approach. Look at one variable at a time, and then follow it up by looking at relationships between variables.
 
-## Research Questions:
+## Research Questions
 
 1. Which year has the highest release of movies?
 2. Which Movie Has The Highest Or Lowest Profit? Top 10 movies which earn highest profit?
@@ -53,3 +53,18 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 16. Life Time Profit Earn By Each Production Company?
 17. Top 20 Director Who Directs Maximum Movies?
 18. What kinds of properties are associated with movies that have high revenues?
+
+## Conclusions
+
+- Drama is the most popular genre, following by action, comedy and thriller.
+- Drame, Comedy, Thriller and Action are four most-made genres.
+- Maximum Number Of Movies Release In year 2014.
+- 'Avatar', 'Star Wars' and 'Titanic' are the most profitable movies.
+- Short or Long duration movies are more popular than long duration movies.
+- Average runtime of the movies are decreasing year by year.
+- May,june,november and december are most popular month for releasing movies, if you want to earn more profit.
+- Revenue is directly connected to the budget.
+- Warner Bros, Universal Pictures and Paramount Pictures production companies earn more life time profit than other production companies.
+- Movies with higher budgets have shown a corresponding increase in the revenues.
+
+
