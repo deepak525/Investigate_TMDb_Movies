@@ -52,7 +52,8 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 15. Top 20 Production Companies With Higher Number Of Release?
 16. Life Time Profit Earn By Each Production Company?
 17. Top 20 Director Who Directs Maximum Movies?
-18. What kinds of properties are associated with movies that have high revenues?
+18. Most Popular Keyword?
+19. What kinds of properties are associated with movies that have high revenues?
 
 ## Conclusions
 
